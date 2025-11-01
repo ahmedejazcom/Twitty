@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI News-to-Tweet Monitor",
+  "description": "An application that monitors news and events for a specific topic using Google Search grounding, generates a tweet about the latest updates with Gemini, and simulates posting it.",
+  "requestFramePermissions": []
+}
